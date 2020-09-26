@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prCuadrosMensajes\bin\Debug\prCuadrosMensajes.exe.config
+C:\Users\User\source\repos\prCuadrosMensajes\bin\Debug\prCuadrosMensajes.exe
+C:\Users\User\source\repos\prCuadrosMensajes\bin\Debug\prCuadrosMensajes.pdb
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.Form1.resources
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.Properties.Resources.resources
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.exe
+C:\Users\User\source\repos\prCuadrosMensajes\obj\Debug\prCuadrosMensajes.pdb

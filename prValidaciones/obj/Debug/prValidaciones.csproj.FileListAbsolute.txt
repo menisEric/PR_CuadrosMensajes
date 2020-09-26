@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prValidaciones\bin\Debug\prValidaciones.exe.config
+C:\Users\User\source\repos\prValidaciones\bin\Debug\prValidaciones.exe
+C:\Users\User\source\repos\prValidaciones\bin\Debug\prValidaciones.pdb
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.Form1.resources
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.Properties.Resources.resources
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.exe
+C:\Users\User\source\repos\prValidaciones\obj\Debug\prValidaciones.pdb
